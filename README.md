@@ -1,0 +1,2 @@
+# uygulama
+basit hesap makinesi
